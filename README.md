@@ -24,6 +24,11 @@ Slot Machine Game
 - [SlotMachine](Documentation/Shuffle/Slotmachine.md)
 - [scriptjs](Documentation/Shuffle/scriptjs.md)
 
+## Unit Testing
+- [Testunit](Documentation/Shuffle/test.md)
+
+
+
 
 
 
