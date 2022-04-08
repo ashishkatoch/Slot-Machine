@@ -29,11 +29,11 @@ Slot Machine Game
 
 
 
-### Objective
+## Objective
 
 Jackpot! You've landed a summer gig in Las Vegas! Unfortunately, its 2021, and the casinos are closed due to COVID-19. Your boss wants to move some of the business online and asks you to build a fullstack app — a simple slot machine game, with a little twist. Build it to ensure that the house always wins!
 
-### Brief
+## Brief
 
 When a player starts a game/session, they are allocated 10 credits. 
 Pulling the machine lever (rolling the slots) costs 1 credit. 
@@ -44,7 +44,7 @@ The game (session) state has to be kept on server.
 If the player keeps winning, they can play forever, but the house has something to say about that...
 There is  CASH OUT button on the screen, but there's a twist there as well.
 
-### Tasks
+## Tasks
 
 - Implement assignment using:
     - Language: *PHP*
@@ -69,7 +69,7 @@ There is  CASH OUT button on the screen, but there's a twist there as well.
     - Include a button on the screen that says "CASH OUT", but when the user hovers it, there is 50% chance that button moves in a random direction by 300px, and 40% chance that it becomes unclickable (this roll should be done on client side). If they succeed to hit it, credits from session are moved to their account.
 - Write tests for your business logic
 
-### Evaluation Criteria
+## Evaluation Criteria
 
 - *PHP* best practices
 - Completeness: did you complete the features as briefed?
@@ -77,7 +77,7 @@ There is  CASH OUT button on the screen, but there's a twist there as well.
 - Maintainability: is the code written in a clean, maintainable way?
 - Testing: was the system adequately tested?
 
-### CodeSubmit
+## CodeSubmit
 
 Please organize, design, test and document your code as if it were going into production - then push your changes to the master branch. After you have pushed your code, you may submit the assignment on the assignment page.
 
