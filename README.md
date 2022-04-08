@@ -20,9 +20,9 @@ Slot Machine Game
 - Cashout Button for moving all credits value to users account.
 
 ## Sections
-- [Slot machine work flow](shuffle/Slotemachine-Work-Flow.md)
-- [SlotMachine](shuffle/Slotmachine.md)
-- [scriptjs](shuffle/scriptjs.md)
+- [Slot machine work flow](Documentation/Shuffle/Slotemachine-Work-Flow.md)
+- [SlotMachine](Documentation/Shuffle/Slotmachine.md)
+- [scriptjs](Documentation/Shuffle/scriptjs.md)
 
 
 
