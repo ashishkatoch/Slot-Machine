@@ -1,6 +1,6 @@
 [Home](../../README.md)
 - [Slot machine work flow](Slotemachine-Work-Flow.md)
-- [SlotMachine](Slotmachine.md)
+- [SlotMachine Controller](Slotmachine.md)
 - [ScriptJs](scriptjs.md)
 
 # Common Js
