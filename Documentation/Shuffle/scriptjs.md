@@ -1,5 +1,5 @@
 [Home](../../README.md)
-- [Slot machine functionality](Slotemachine-Work-Flow.md)
+- [Slot machine work flow](Slotemachine-Work-Flow.md)
 - [SlotMachine](Slotmachine.md)
 - [ScriptJs](scriptjs.md)
 
