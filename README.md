@@ -3,10 +3,6 @@
 # Slot Machine            
 <br />
 
-<p align="center">
-  <img src="https://i.postimg.cc/13vRkmgg/home-rapify.png" alt="Icon"/>
-</p>
-
 ## Introduction
 Slot Machine Game 
 
