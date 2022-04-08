@@ -1,0 +1,89 @@
+body{
+	padding: 0px;
+	margin:0px;
+}
+.content{
+	width: 1068px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.cell {
+   width: 150px;
+   height: 150px;
+   outline: 1px solid;
+   float: left;
+   text-align: center;
+   line-height: 150px;
+   font-size: 120px;
+   font-family: monospace;
+   border-radius: 10px;
+   margin: 5px;
+   padding: 25px;
+   border: 7px dotted red;
+   border-style: double;
+   box-shadow: inset 0px 2px 13px 1px #39a039;
+}
+.machine {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 8%;
+}
+button.st-btn {
+	width: 242px;
+	height: 150px;
+	font-size: 50px;
+	background: #39a039;
+	color: white;
+	border-radius: 12px;
+	margin-left: 12px;
+	cursor: pointer;
+	border: 0px;
+}
+span.items {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 150px;
+}
+.st-btn-red {
+	width: 242px;
+	height: 150px;
+	background: #f21111;
+	color: white;
+	border-radius: 12px;
+	margin-left: 12px;
+	cursor: pointer;
+	border: 0px;
+	font-size: 50px;
+}
+.userCredits {
+	background: grey;
+	padding: 12px;
+	width: 127px;
+	text-align: center;
+	font-size: 23px;
+	color: white;
+	margin-left: 13px;
+	border-radius: 9px;
+	margin-bottom: 2%;
+}
+.btn:disabled {
+	color: #aaa;
+}
+.startBtn:disabled {
+	background: grey;
+}
+header {
+    padding: 13px;
+    border-bottom: 1px solid;
+    margin-bottom: 2%;
+    font-size: 49px;
+    text-align: center;
+    background: #070707a6;
+    color: white;
+	font-family: monospace;
+}
+.st-btn-red:disabled {background: grey;}
+button.st-btn:hover{background: #338733;}
+button.st-btn:hover:disabled {background: grey;}
