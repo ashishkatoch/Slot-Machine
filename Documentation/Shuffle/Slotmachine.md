@@ -1,9 +1,9 @@
-[Home](../README.md)
+[Home](../../README.md)
 - [Slot machine functionality](Slotemachine-Work-Flow.md)
 - [SlotMachine](Slotmachine.md)
 - [ScriptJs](scriptjs.md)
 
-# Sliders Controller
+# SlotMachine Controller
 
 
 This controller is used to add remove credits based on the given conditions
