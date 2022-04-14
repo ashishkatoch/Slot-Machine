@@ -66,10 +66,6 @@ If the player keeps winning, they can play forever, but the house has something 
 There is  CASH OUT button on the screen, but there's a twist there as well.
 
 ## Tasks
-
-- Implement assignment using:
-    - Language: *PHP*
-    - Framework: *any framework*
 - When a user opens the app, a session is created on the server, and they have 10 starting credits.
 - **Server side:**
     - When a user has less than 40 credits in the game session, their rolls are truly random.
